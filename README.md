@@ -2,6 +2,9 @@
 
 This chatbot is designed to assist users with their online shopping experience by providing product recommendations, answering questions, and assisting with various inquiries related to the ecommerce store.
 
+![Screenshot 2024-07-18 083404](https://github.com/user-attachments/assets/bc096219-3075-427e-8a89-c9c7a0befd45)
+
+
 ## Overview
 
 The Ecommerce Chatbot is built using Python and Flask framework. It leverages natural language processing (NLP) techniques to understand user queries and generate appropriate responses. The chatbot integrates with the ecommerce store's product database to provide personalized recommendations and information about available products.
